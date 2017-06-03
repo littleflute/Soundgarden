@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Flower.mp3";		
+f[2]	= "02 All Your Lies.mp3";		
+f[3]	= "03 665.mp3";		
+f[4]	= "04 Beyond the Wheel.mp3";		
+f[5]	= "05 667.mp3";		
+f[6]	= "06 Mood for Trouble.mp3";		
+f[7]	= "07 Circle of Power.mp3";		
+f[8]	= "08 He Didn't.mp3";		
+f[9]	= "09 Smokestack Lightning.mp3";		
+f[10]	= "10 Nazi Driver.mp3";		
+f[11]	= "11 Head Injury.mp3";		
+f[12]	= "12 Incessant Mace.mp3";		
+f[13]	= "13 One Minute of Silence.mp3";		
